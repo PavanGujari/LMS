@@ -115,7 +115,7 @@ GitHub Actions automatically:
 - Pushes it to Docker Hub
 - Connects to AWS EC2
 - Pulls the latest image
-- Restarts the containe r 
+- Restarts the container
 
 ---
 
